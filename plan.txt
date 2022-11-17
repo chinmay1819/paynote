@@ -1,0 +1,19 @@
+categories of payment --> food , petrol , clothes , recharge , other 
+
+To pay ==> Name of the person Amount==>  Reason ==> 
+
+Amount 
+
+Reason 
+
+Submit 
+
+
+In the to pay section add google pay api and in receive section also ..
+
+
+
+
+
+
+
